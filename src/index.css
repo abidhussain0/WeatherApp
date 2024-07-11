@@ -67,3 +67,9 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+body{
+  background: url("./dominik-schroder-FIKD9t5_5zQ-unsplash.jpg");
+  background-size:contain;
+  background-position:top;
+  background: cover;
+}

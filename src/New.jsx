@@ -125,9 +125,7 @@ function New() {
         <div>
             {userLocation && (
                 <div>
-                    {/* <h2>User Location</h2>
-                    <p>Latitude: {userLocation.latitude}</p>
-                    <p>Longitude: {userLocation.longitude}</p> */}
+                   
                 </div>
             )}
             <div className="form-outline" data-mdb-input-init>
